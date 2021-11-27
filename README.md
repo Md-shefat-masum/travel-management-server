@@ -16,6 +16,17 @@ Best tourist solution.
 - Authentication with firebase
 - Fully responsive
 
+## Functionalities
+- Event CRUD
+- Cart Management
+
+## Made by
+- REACT
+- REACT router
+- Node js
+- Express
+- Bootstrap
+
 ## Install
 
 Clone repo
